@@ -1,0 +1,13 @@
+body {
+    background-image: url(images/Main_Background_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    color: black;
+
+    .heading1 {
+        text-align: center;
+    }
+}
