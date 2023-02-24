@@ -1,0 +1,22 @@
+/* Tag Selectors */
+body {
+    background-attachment: fixed;
+    background-image: url(images/Main_Background_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: black;
+
+    margin: 0;
+
+}
+
+
+/* Class Selectors */
+/* Class Selectors (class="") will use . and then the class */
+
+
+
+/* ID Selectors */
+/* ID Selectors (id="") will use # and then the ID */
