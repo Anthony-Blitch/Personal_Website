@@ -1,5 +1,23 @@
-h1 {
+.main-heading {
     font-size: 35px;
+    margin-top: 3em;
+    margin-bottom: 0;
+    font-family: "Lora";
+    font-size: 100px;
+    text-align: center;
+    text-decoration: n
+    
+    
+}
+
+.main-paragraph {
+    font-size: 20px;
+    font-family: "Lora";
+    font-size: 50px;
+    text-align: center;
     margin-top: 0;
 
+
 }
+
+

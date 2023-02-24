@@ -5,13 +5,43 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
 
+    /* This is for the text color */
     color: black;
-
-    margin: 0;
 
 }
 
+
+ul, .navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+li, .navigation {
+    display: inline;
+    padding: 1em;
+    padding-top: 1em;
+    background-color: transparent;
+    border-radius: 30%;
+    font-family: "Lora";
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    margin: 1em;
+    margin-left: 0;
+    padding: 0;
+    font-family: "Lora";
+    display: flex;
+}
 
 /* Class Selectors */
 /* Class Selectors (class="") will use . and then the class */
