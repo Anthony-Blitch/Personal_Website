@@ -1,38 +1,45 @@
 /* Tag Selectors */
 body {
     background-attachment: fixed;
-    background-image: url(images/Main_Background_1.png);
+    background-image: url(images/Main_Background_4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
 
+
     /* This is for the text color */
-    color: black;
+    color: #fff;
 
 }
 
 
-ul, .navigation {
+ul,
+.navigation {
     list-style-type: none;
     margin: 0;
     padding: 0;
+
 }
 
 
-li, .navigation {
+li,
+.navigation {
     display: inline;
     padding: 1em;
     padding-top: 1em;
     background-color: transparent;
     border-radius: 30%;
     font-family: "Lora";
-    
+
+
 }
 
 a {
     text-decoration: none;
+    color: #fff;
+    font-family: "Lora";
 }
 
 nav {
